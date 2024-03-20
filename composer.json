@@ -1,0 +1,16 @@
+{
+  "name": "gizmore/phpgdo-dog-whatsapp",
+  "description": "Composer dependencies for phpgdo-dog-whatsapp module.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.3",
+    "chrome-php/chrome": "*"
+  },
+  "authors": [
+    {
+      "name": "gizmore",
+      "email": "gizmore@wechall.net"
+    }
+  ]
+}
